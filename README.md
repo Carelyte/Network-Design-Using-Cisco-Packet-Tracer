@@ -51,7 +51,6 @@ allowing only Admin to reach it.
 3. Practice Makes Perfect: Repeating configurations like port security and access lists made us more confident.
 4. VLANs Are Powerful: VLANs effectively improve security and control traffic within a network.
 5. Attention to Detail: One wrong IP address or untagged port can break the whole network 
-<img width="1632" height="98" alt="image" src="https://github.com/user-attachments/assets/289ca1c3-8204-4e0c-aada-58d0c0b90fbb" />
 
 
 
