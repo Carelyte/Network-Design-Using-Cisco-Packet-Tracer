@@ -50,7 +50,18 @@ allowing only Admin to reach it.
 2. Team Collaboration is Key: Clear communication made troubleshooting easier and faster. 
 3. Practice Makes Perfect: Repeating configurations like port security and access lists made us more confident.
 4. VLANs Are Powerful: VLANs effectively improve security and control traffic within a network.
-5. Attention to Detail: One wrong IP address or untagged port can break the whole network 
+5. Attention to Detail: One wrong IP address or untagged port can break the whole network
+# Advice and Tips for others
+From our experience with this challenge, here are some tips that we wish we had earlier - and we hope they help you too.
+1. Start simple, then build up: Don't try to do everything at once. Begin with device placement and basic connectivity before diving into VLANs or advanced security. It makes troubleshooting way easier.
+2. Label everything clearly: Use meaningful names for PCs, switches, and routers. This helped us stay organized and made the network easier to understand, especially during testing.
+3. Document as you go: It's tempting to configure everything first and explain later - but it's better to document each step while it's fresh. This made our final slides clearer and saved us time.
+4. Test access early and often: After VLAN configuration, run ping tests frequently. It's better to catch access issues early than to debug everything at the end.
+5. Security is not just a checkbox: Port security, passwords, and restricting access are not just tasks - they're what make your network realistic. 
+6. Use Packet Tracer shortcuts wisely: The simulation can lag with many devices. Use logical spacing and hide layers if needed to keep things tidy.
+7. Communicate with your team: Collaboration made a huge difference for us. Assign tasks, share findings, and keep each other updated to avoid overlap or confusion. 
+8. Have fun with it: This was more than just a technical task - it was a creative challenge too
+
 
 
 
