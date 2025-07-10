@@ -1,4 +1,4 @@
-<img width="1958" height="98" alt="image" src="https://github.com/user-attachments/assets/ca3ae370-0c2b-4f65-b0c2-01f54688a521" /># Network-Design-Using-Cisco-Packet-Tracer
+# Network-Design-Using-Cisco-Packet-Tracer
 Building a secure office network
 # Overview of Project
 A small company with three departments (Admin, Sales and IT) needs a network with access to the internet. All departments are entitled to different VLANs to avoid inter-VLAN routing (restriction from accessing each others file) where only Admin will have access to the File Server and everyone will have access to the internet.
